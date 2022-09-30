@@ -1,0 +1,28 @@
+{
+    
+   "posts": [
+    {
+      "id": 1,
+      "title": "My First Post",
+      "dateTime": "July 01, 2021 11:17:36 Am",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus minima reprehenderit maiores voluptas obcaecati praesentium ipsum. Ad sint quidem accusamus non, molestiae nam repellendus? Expedita cum sapiente unde? Quas, nam.",
+    },
+    {
+      "id": 2,
+      "title": "My Second Post",
+      "dateTime": "July 01, 2021 11:17:36 Am",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus minima reprehenderit maiores voluptas obcaecati praesentium ipsum. Ad sint quidem accusamus non, molestiae nam repellendus? Expedita cum sapiente unde? Quas, nam.",
+    },
+    {
+      "id": 3,
+      "title": "My Third Post",
+      "dateTime": "July 01, 2021 11:17:36 Am",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus minima reprehenderit maiores voluptas obcaecati praesentium ipsum. Ad sint quidem accusamus non, molestiae nam repellendus? Expedita cum sapiente unde? Quas, nam.",
+    },
+    {
+      "id": 4,
+      "title": "My Fourth Post",
+      "dateTime": "July 01, 2021 11:17:36 Am",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus minima reprehenderit maiores voluptas obcaecati praesentium ipsum. Ad sint quidem accusamus non, molestiae nam repellendus? Expedita cum sapiente unde? Quas, nam.",
+    }
+  ]}
